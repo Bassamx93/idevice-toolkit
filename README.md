@@ -5,6 +5,8 @@ Developed by [iDevice Central](https://idevicecentral.com).
 
 <a href="https://idevicecentral.com/tweaks/idevice-toolkit-ipa-download/">Check out the official release article / guide for iDevice Toolkit</a>
 
+DOES NOT WORK WITH LIVE CONTAINER! Sideload properly.
+
 ---
 
 ## 🔧 What is iDevice Toolkit?
